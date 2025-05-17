@@ -1,0 +1,57 @@
+
+# Byte-compiled / binary files
+*.pyc
+*.o
+*.so
+
+# Python cache
+__pycache__/
+
+# R session files
+.Rhistory
+.RData
+.Rproj.user/
+
+# Jupyter and notebooks
+.ipynb_checkpoints/
+
+# Logs and outputs
+*.log
+*.out
+*.err
+
+# Temporary or backup files
+*~
+.#*
+*.swp
+*.tmp
+
+# Environment files
+.env/
+.venv/
+env/
+*.env
+
+# Mac system files
+.DS_Store
+
+# Linux/Unix trash
+.Trash-*
+
+# HPC SLURM outputs (if not versioned intentionally)
+slurm-*.out
+slurm-*.err
+
+# Compiled Perl/Python binaries (if ever created)
+*.bs
+*.pm
+*.blib
+
+# Manually generated large data or intermediate outputs
+*_results/
+*_outputs/
+*_checkpoints/
+*.bam
+*.sam
+*.fasta
+*.fastq

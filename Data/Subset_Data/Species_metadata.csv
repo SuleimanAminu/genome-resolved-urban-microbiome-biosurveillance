@@ -1,0 +1,625 @@
+Sample_ID,Project_ID,Group,Country,environmental_material,Region,Continent,Instrument,Sequencing_Center
+SRR5240287,PRJNA369713,Ambulance,USA,Misc,W,North America,Illumina_HiSeq_2500,WCMC
+SRR5240289,PRJNA369713,Ambulance,USA,Stethoscope,S_W_W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240292,PRJNA369713,Ambulance,USA,Stethoscope,S_W_W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240295,PRJNA369713,Ambulance,USA,Stethoscope,S_W_W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240296,PRJNA369713,Ambulance,USA,Stethoscope,S_W_W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240301,PRJNA369713,Ambulance,USA,Stethoscope,S_W_W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240306,PRJNA369713,Ambulance,USA,Stethoscope,S_W_W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240307,PRJNA369713,Ambulance,USA,Stethoscope,S_W_W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240308,PRJNA369713,Ambulance,USA,Stethoscope,S_W_W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240313,PRJNA369713,Ambulance,USA,Computer,S_W_W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240314,PRJNA369713,Ambulance,USA,Computer,S_W_W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240315,PRJNA369713,Ambulance,USA,Computer,S_W_W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240316,PRJNA369713,Ambulance,USA,Computer,S_W_W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240317,PRJNA369713,Ambulance,USA,Computer,S_W_W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240318,PRJNA369713,Ambulance,USA,Computer,S_W_W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240319,PRJNA369713,Ambulance,USA,Computer,S_W_W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240320,PRJNA369713,Ambulance,USA,Computer,S_W_W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240321,PRJNA369713,Ambulance,USA,Computer,S_W_W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240322,PRJNA369713,Ambulance,USA,Computer,S_W_W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240323,PRJNA369713,Ambulance,USA,Computer,S_W_W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240324,PRJNA369713,Ambulance,USA,Computer,S_W_W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240326,PRJNA369713,Ambulance,USA,Computer,S_W_W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240328,PRJNA369713,Ambulance,USA,Computer,S_W_W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240329,PRJNA369713,Ambulance,USA,Computer,S_W_W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240330,PRJNA369713,Ambulance,USA,Computer,S_W_W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240332,PRJNA369713,Ambulance,USA,Suction_O2,S_W_W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240333,PRJNA369713,Ambulance,USA,RearCabinets_counters,S_W_W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240334,PRJNA369713,Ambulance,USA,RearBench_seats,S_W_W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240335,PRJNA369713,Ambulance,USA,RearHandles_rails,S_W_W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240336,PRJNA369713,Ambulance,USA,FrontHandles,S_W_W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240339,PRJNA369713,Ambulance,USA,Computer,S_W_W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240340,PRJNA369713,Ambulance,USA,Computer,S_W_W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240341,PRJNA369713,Ambulance,USA,Computer,S_W_W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240342,PRJNA369713,Ambulance,USA,Computer,S_W_W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240344,PRJNA369713,Ambulance,USA,Stethoscope,S_W_W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240345,PRJNA369713,Ambulance,USA,Stethoscope,S_W_W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240346,PRJNA369713,Ambulance,USA,Stethoscope,S_W_W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240348,PRJNA369713,Ambulance,USA,Stethoscope,S_W_W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240349,PRJNA369713,Ambulance,USA,Stethoscope,S_W_W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240350,PRJNA369713,Ambulance,USA,Stethoscope,S_W_W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240351,PRJNA369713,Ambulance,USA,PulseOxProbe,W,North America,Illumina_HiSeq_2500,WCMC
+SRR5240352,PRJNA369713,Ambulance,USA,Monitor,W,North America,Illumina_HiSeq_2500,WCMC
+SRR5240353,PRJNA369713,Ambulance,USA,Stethoscope,W,North America,Illumina_HiSeq_2500,WCMC
+SRR5240354,PRJNA369713,Ambulance,USA,Monitor,W,North America,Illumina_HiSeq_2500,WCMC
+SRR5240355,PRJNA369713,Ambulance,USA,PulseOxProbe,W,North America,Illumina_HiSeq_2500,WCMC
+SRR5240356,PRJNA369713,Ambulance,USA,Stethoscope,W,North America,Illumina_HiSeq_2500,WCMC
+SRR5240357,PRJNA369713,Ambulance,USA,EmergencyResponseBag,W,North America,Illumina_HiSeq_2500,WCMC
+SRR5240358,PRJNA369713,Ambulance,USA,AED,W,North America,Illumina_HiSeq_2500,WCMC
+SRR5240359,PRJNA369713,Ambulance,USA,Stethoscope,W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240360,PRJNA369713,Ambulance,USA,Stethoscope,W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240361,PRJNA369713,Ambulance,USA,Monitor,S_W_W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240362,PRJNA369713,Ambulance,USA,Monitor,S_W_W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240363,PRJNA369713,Ambulance,USA,EmergencyResponseBag,S_W_W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240365,PRJNA369713,Ambulance,USA,Computer,S_W_W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240366,PRJNA369713,Ambulance,USA,Computer,S_W_W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240368,PRJNA369713,Ambulance,USA,Computer,S_W_W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240369,PRJNA369713,Ambulance,USA,RearBench_seats,S_W_W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240370,PRJNA369713,Ambulance,USA,RearHandles_rails,S_W_W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240374,PRJNA369713,Ambulance,USA,Suction_O2,S_W_W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240375,PRJNA369713,Ambulance,USA,RearCabinets_counters,S_W_W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240376,PRJNA369713,Ambulance,USA,RearBench_seats,S_W_W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240377,PRJNA369713,Ambulance,USA,RearHandles_rails,S_W_W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240378,PRJNA369713,Ambulance,USA,Stretcher,S_W_W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240379,PRJNA369713,Ambulance,USA,Computer,S_W_W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240380,PRJNA369713,Ambulance,USA,FrontHandles,S_W_W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240381,PRJNA369713,Ambulance,USA,SteeringWheel_DriverControls,S_W_W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240382,PRJNA369713,Ambulance,USA,RearLights_controlPanel,S_W_W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240383,PRJNA369713,Ambulance,USA,Suction_O2,S_W_W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240384,PRJNA369713,Ambulance,USA,RearCabinets_counters,S_W_W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240385,PRJNA369713,Ambulance,USA,RearBench_seats,S_W_W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240386,PRJNA369713,Ambulance,USA,RearHandles_rails,S_W_W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240387,PRJNA369713,Ambulance,USA,Stretcher,S_W_W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240388,PRJNA369713,Ambulance,USA,Computer,S_W_W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240389,PRJNA369713,Ambulance,USA,FrontHandles,S_W_W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240390,PRJNA369713,Ambulance,USA,SteeringWheel_DriverControls,S_W_W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240391,PRJNA369713,Ambulance,USA,RearLights_controlPanel,S_W_W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240393,PRJNA369713,Ambulance,USA,Computer,S_W_W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240394,PRJNA369713,Ambulance,USA,FrontHandles,S_W_W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240395,PRJNA369713,Ambulance,USA,SteeringWheel_DriverControls,S_W_W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240396,PRJNA369713,Ambulance,USA,Suction_O2,W,North America,Illumina_HiSeq_2500,WCMC
+SRR5240398,PRJNA369713,Ambulance,USA,RearBench_seats,W,North America,Illumina_HiSeq_2500,WCMC
+SRR5240399,PRJNA369713,Ambulance,USA,RearHandles_rails,W,North America,Illumina_HiSeq_2500,WCMC
+SRR5240400,PRJNA369713,Ambulance,USA,Stretcher,W,North America,Illumina_HiSeq_2500,WCMC
+SRR5240401,PRJNA369713,Ambulance,USA,Computer,W,North America,Illumina_HiSeq_2500,WCMC
+SRR5240402,PRJNA369713,Ambulance,USA,RearLights_controlPanel,W,North America,Illumina_HiSeq_2500,WCMC
+SRR5240403,PRJNA369713,Ambulance,USA,Suction_O2,W,North America,Illumina_HiSeq_2500,WCMC
+SRR5240404,PRJNA369713,Ambulance,USA,RearCabinets_counters,W,North America,Illumina_HiSeq_2500,WCMC
+SRR5240405,PRJNA369713,Ambulance,USA,RearBench_seats,W,North America,Illumina_HiSeq_2500,WCMC
+SRR5240406,PRJNA369713,Ambulance,USA,RearHandles_rails,W,North America,Illumina_HiSeq_2500,WCMC
+SRR5240408,PRJNA369713,Ambulance,USA,Computer,W,North America,Illumina_HiSeq_2500,WCMC
+SRR5240409,PRJNA369713,Ambulance,USA,FrontHandles,W,North America,Illumina_HiSeq_2500,WCMC
+SRR5240410,PRJNA369713,Ambulance,USA,RearLights_controlPanel,W,North America,Illumina_HiSeq_2500,WCMC
+SRR5240411,PRJNA369713,Ambulance,USA,Suction_O2,W,North America,Illumina_HiSeq_2500,WCMC
+SRR5240413,PRJNA369713,Ambulance,USA,RearBench_seats,W,North America,Illumina_HiSeq_2500,WCMC
+SRR5240414,PRJNA369713,Ambulance,USA,RearHandles_rails,W,North America,Illumina_HiSeq_2500,WCMC
+SRR5240415,PRJNA369713,Ambulance,USA,Stretcher,W,North America,Illumina_HiSeq_2500,WCMC
+SRR5240417,PRJNA369713,Ambulance,USA,FrontHandles,W,North America,Illumina_HiSeq_2500,WCMC
+SRR5240418,PRJNA369713,Ambulance,USA,SteeringWheel_DriverControls,W,North America,Illumina_HiSeq_2500,WCMC
+SRR5240419,PRJNA369713,Ambulance,USA,RearLights_controlPanel,W,North America,Illumina_HiSeq_2500,WCMC
+SRR5240420,PRJNA369713,Ambulance,USA,Suction_O2,W,North America,Illumina_HiSeq_2500,WCMC
+SRR5240421,PRJNA369713,Ambulance,USA,RearCabinets_counters,W,North America,Illumina_HiSeq_2500,WCMC
+SRR5240422,PRJNA369713,Ambulance,USA,RearBench_seats,W,North America,Illumina_HiSeq_2500,WCMC
+SRR5240423,PRJNA369713,Ambulance,USA,RearHandles_rails,W,North America,Illumina_HiSeq_2500,WCMC
+SRR5240424,PRJNA369713,Ambulance,USA,Stretcher,W,North America,Illumina_HiSeq_2500,WCMC
+SRR5240425,PRJNA369713,Ambulance,USA,Computer,W,North America,Illumina_HiSeq_2500,WCMC
+SRR5240426,PRJNA369713,Ambulance,USA,FrontHandles,W,North America,Illumina_HiSeq_2500,WCMC
+SRR5240427,PRJNA369713,Ambulance,USA,SteeringWheel_DriverControls,W,North America,Illumina_HiSeq_2500,WCMC
+SRR5240428,PRJNA369713,Ambulance,USA,RearLights_controlPanel,W,North America,Illumina_HiSeq_2500,WCMC
+SRR5240429,PRJNA369713,Ambulance,USA,Suction_O2,W,North America,Illumina_HiSeq_2500,WCMC
+SRR5240430,PRJNA369713,Ambulance,USA,RearCabinets_counters,W,North America,Illumina_HiSeq_2500,WCMC
+SRR5240431,PRJNA369713,Ambulance,USA,RearBench_seats,W,North America,Illumina_HiSeq_2500,WCMC
+SRR5240432,PRJNA369713,Ambulance,USA,RearHandles_rails,W,North America,Illumina_HiSeq_2500,WCMC
+SRR5240433,PRJNA369713,Ambulance,USA,Stretcher,W,North America,Illumina_HiSeq_2500,WCMC
+SRR5240434,PRJNA369713,Ambulance,USA,Computer,W,North America,Illumina_HiSeq_2500,WCMC
+SRR5240435,PRJNA369713,Ambulance,USA,FrontHandles,W,North America,Illumina_HiSeq_2500,WCMC
+SRR5240436,PRJNA369713,Ambulance,USA,SteeringWheel_DriverControls,W,North America,Illumina_HiSeq_2500,WCMC
+SRR5240437,PRJNA369713,Ambulance,USA,RearLights_controlPanel,W,North America,Illumina_HiSeq_2500,WCMC
+SRR5240438,PRJNA369713,Ambulance,USA,Suction_O2,W,North America,Illumina_HiSeq_2500,WCMC
+SRR5240439,PRJNA369713,Ambulance,USA,RearHandles_rails,W,North America,Illumina_HiSeq_2500,WCMC
+SRR5240440,PRJNA369713,Ambulance,USA,Computer,W,North America,Illumina_HiSeq_2500,WCMC
+SRR5240441,PRJNA369713,Ambulance,USA,FrontHandles,W,North America,Illumina_HiSeq_2500,WCMC
+SRR5240442,PRJNA369713,Ambulance,USA,SteeringWheel_DriverControls,W,North America,Illumina_HiSeq_2500,WCMC
+SRR5240444,PRJNA369713,Ambulance,USA,RearCabinets_counters,W,North America,Illumina_HiSeq_2500,WCMC
+SRR5240445,PRJNA369713,Ambulance,USA,RearBench_seats,W,North America,Illumina_HiSeq_2500,WCMC
+SRR5240446,PRJNA369713,Ambulance,USA,RearHandles_rails,W,North America,Illumina_HiSeq_2500,WCMC
+SRR5240447,PRJNA369713,Ambulance,USA,Stretcher,W,North America,Illumina_HiSeq_2500,WCMC
+SRR5240448,PRJNA369713,Ambulance,USA,Computer,W,North America,Illumina_HiSeq_2500,WCMC
+SRR5240449,PRJNA369713,Ambulance,USA,FrontHandles,W,North America,Illumina_HiSeq_2500,WCMC
+SRR5240450,PRJNA369713,Ambulance,USA,RearLights_controlPanel,W,North America,Illumina_HiSeq_2500,WCMC
+SRR5240451,PRJNA369713,Ambulance,USA,Suction_O2,W,North America,Illumina_HiSeq_2500,WCMC
+SRR5240452,PRJNA369713,Ambulance,USA,RearBench_seats,W,North America,Illumina_HiSeq_2500,WCMC
+SRR5240453,PRJNA369713,Ambulance,USA,RearHandles_rails,W,North America,Illumina_HiSeq_2500,WCMC
+SRR5240454,PRJNA369713,Ambulance,USA,Stretcher,W,North America,Illumina_HiSeq_2500,WCMC
+SRR5240455,PRJNA369713,Ambulance,USA,FrontHandles,W,North America,Illumina_HiSeq_2500,WCMC
+SRR5240456,PRJNA369713,Ambulance,USA,SteeringWheel_DriverControls,W,North America,Illumina_HiSeq_2500,WCMC
+SRR5240457,PRJNA369713,Ambulance,USA,RearLights_controlPanel,W,North America,Illumina_HiSeq_2500,WCMC
+SRR5240458,PRJNA369713,Ambulance,USA,Suction_O2,W,North America,Illumina_HiSeq_2500,WCMC
+SRR5240460,PRJNA369713,Ambulance,USA,RearBench_seats,W,North America,Illumina_HiSeq_2500,WCMC
+SRR5240461,PRJNA369713,Ambulance,USA,RearHandles_rails,W,North America,Illumina_HiSeq_2500,WCMC
+SRR5240462,PRJNA369713,Ambulance,USA,Stretcher,W,North America,Illumina_HiSeq_2500,WCMC
+SRR5240464,PRJNA369713,Ambulance,USA,FrontHandles,W,North America,Illumina_HiSeq_2500,WCMC
+SRR5240466,PRJNA369713,Ambulance,USA,RearLights_controlPanel,W,North America,Illumina_HiSeq_2500,WCMC
+SRR5240467,PRJNA369713,Ambulance,USA,Suction_O2,W,North America,Illumina_HiSeq_2500,WCMC
+SRR5240468,PRJNA369713,Ambulance,USA,RearCabinets_counters,W,North America,Illumina_HiSeq_2500,WCMC
+SRR5240469,PRJNA369713,Ambulance,USA,RearBench_seats,W,North America,Illumina_HiSeq_2500,WCMC
+SRR5240470,PRJNA369713,Ambulance,USA,RearHandles_rails,W,North America,Illumina_HiSeq_2500,WCMC
+SRR5240471,PRJNA369713,Ambulance,USA,Stretcher,W,North America,Illumina_HiSeq_2500,WCMC
+SRR5240472,PRJNA369713,Ambulance,USA,Computer,W,North America,Illumina_HiSeq_2500,WCMC
+SRR5240473,PRJNA369713,Ambulance,USA,FrontHandles,W,North America,Illumina_HiSeq_2500,WCMC
+SRR5240475,PRJNA369713,Ambulance,USA,Suction_O2,W,North America,Illumina_HiSeq_2500,WCMC
+SRR5240476,PRJNA369713,Ambulance,USA,RearCabinets_counters,W,North America,Illumina_HiSeq_2500,WCMC
+SRR5240477,PRJNA369713,Ambulance,USA,RearBench_seats,W,North America,Illumina_HiSeq_2500,WCMC
+SRR5240478,PRJNA369713,Ambulance,USA,RearHandles_rails,W,North America,Illumina_HiSeq_2500,WCMC
+SRR5240479,PRJNA369713,Ambulance,USA,Stretcher,W,North America,Illumina_HiSeq_2500,WCMC
+SRR5240480,PRJNA369713,Ambulance,USA,SteeringWheel_DriverControls,W,North America,Illumina_HiSeq_2500,WCMC
+SRR5240481,PRJNA369713,Ambulance,USA,RearLights_controlPanel,W,North America,Illumina_HiSeq_2500,WCMC
+SRR5240482,PRJNA369713,Ambulance,USA,Suction_O2,W,North America,Illumina_HiSeq_2500,WCMC
+SRR5240483,PRJNA369713,Ambulance,USA,RearHandles_rails,W,North America,Illumina_HiSeq_2500,WCMC
+SRR5240484,PRJNA369713,Ambulance,USA,SteeringWheel_DriverControls,W,North America,Illumina_HiSeq_2500,WCMC
+SRR5240485,PRJNA369713,Ambulance,USA,Computer,W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240488,PRJNA369713,Ambulance,USA,Computer,W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240494,PRJNA369713,Ambulance,USA,Computer,W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240495,PRJNA369713,Ambulance,USA,Computer,W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240497,PRJNA369713,Ambulance,USA,Computer,W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240498,PRJNA369713,Ambulance,USA,RearLights_controlPanel,W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240500,PRJNA369713,Ambulance,USA,RearCabinets_counters,W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240502,PRJNA369713,Ambulance,USA,RearHandles_rails,W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240504,PRJNA369713,Ambulance,USA,Computer,W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240506,PRJNA369713,Ambulance,USA,SteeringWheel_DriverControls,W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240507,PRJNA369713,Ambulance,USA,RearLights_controlPanel,W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240508,PRJNA369713,Ambulance,USA,Suction_O2,W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240509,PRJNA369713,Ambulance,USA,RearCabinets_counters,W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240510,PRJNA369713,Ambulance,USA,RearBench_seats,W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240512,PRJNA369713,Ambulance,USA,Stretcher,W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240513,PRJNA369713,Ambulance,USA,Computer,W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240514,PRJNA369713,Ambulance,USA,FrontHandles,W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240515,PRJNA369713,Ambulance,USA,SteeringWheel_DriverControls,W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240517,PRJNA369713,Ambulance,USA,Suction_O2,W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240518,PRJNA369713,Ambulance,USA,RearBench_seats,W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240519,PRJNA369713,Ambulance,USA,RearHandles_rails,W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240520,PRJNA369713,Ambulance,USA,Stretcher,W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240522,PRJNA369713,Ambulance,USA,SteeringWheel_DriverControls,W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240523,PRJNA369713,Ambulance,USA,RearLights_controlPanel,W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240526,PRJNA369713,Ambulance,USA,RearBench_seats,W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240528,PRJNA369713,Ambulance,USA,Computer,W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240529,PRJNA369713,Ambulance,USA,FrontHandles,W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240532,PRJNA369713,Ambulance,USA,Suction_O2,W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240533,PRJNA369713,Ambulance,USA,RearCabinets_counters,W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240534,PRJNA369713,Ambulance,USA,RearBench_seats,W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240535,PRJNA369713,Ambulance,USA,RearHandles_rails,W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240537,PRJNA369713,Ambulance,USA,FrontHandles,W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240538,PRJNA369713,Ambulance,USA,SteeringWheel_DriverControls,W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240539,PRJNA369713,Ambulance,USA,RearLights_controlPanel,W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240540,PRJNA369713,Ambulance,USA,Suction_O2,W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240542,PRJNA369713,Ambulance,USA,RearBench_seats,W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240543,PRJNA369713,Ambulance,USA,RearHandles_rails,W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240544,PRJNA369713,Ambulance,USA,Stretcher,W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240545,PRJNA369713,Ambulance,USA,FrontHandles,W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240546,PRJNA369713,Ambulance,USA,SteeringWheel_DriverControls,W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240547,PRJNA369713,Ambulance,USA,RearLights_controlPanel,W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240549,PRJNA369713,Ambulance,USA,RearCabinets_counters,W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240550,PRJNA369713,Ambulance,USA,RearBench_seats,W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240551,PRJNA369713,Ambulance,USA,RearHandles_rails,W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240552,PRJNA369713,Ambulance,USA,Stretcher,W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240553,PRJNA369713,Ambulance,USA,FrontHandles,W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240554,PRJNA369713,Ambulance,USA,Suction_O2,W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240557,PRJNA369713,Ambulance,USA,RearBench_seats,W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240558,PRJNA369713,Ambulance,USA,RearHandles_rails,W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240560,PRJNA369713,Ambulance,USA,FrontHandles,W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240561,PRJNA369713,Ambulance,USA,SteeringWheel_DriverControls,W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240562,PRJNA369713,Ambulance,USA,RearLights_controlPanel,W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240563,PRJNA369713,Ambulance,USA,RearCabinets_counters,W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240564,PRJNA369713,Ambulance,USA,RearBench_seats,W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240565,PRJNA369713,Ambulance,USA,RearHandles_rails,W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240566,PRJNA369713,Ambulance,USA,Stretcher,W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240568,PRJNA369713,Ambulance,USA,SteeringWheel_DriverControls,W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240569,PRJNA369713,Ambulance,USA,RearLights_controlPanel,W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240570,PRJNA369713,Ambulance,USA,Suction_O2,W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240571,PRJNA369713,Ambulance,USA,RearCabinets_counters,W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240572,PRJNA369713,Ambulance,USA,RearBench_seats,W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240573,PRJNA369713,Ambulance,USA,RearHandles_rails,W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240575,PRJNA369713,Ambulance,USA,FrontHandles,W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240576,PRJNA369713,Ambulance,USA,SteeringWheel_DriverControls,W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240577,PRJNA369713,Ambulance,USA,RearLights_controlPanel,W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240579,PRJNA369713,Ambulance,USA,RearCabinets_counters,W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240580,PRJNA369713,Ambulance,USA,RearBench_seats,W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240581,PRJNA369713,Ambulance,USA,RearHandles_rails,W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240582,PRJNA369713,Ambulance,USA,Stretcher,W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240583,PRJNA369713,Ambulance,USA,FrontHandles,W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240584,PRJNA369713,Ambulance,USA,SteeringWheel_DriverControls,W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240585,PRJNA369713,Ambulance,USA,RearLights_controlPanel,W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240586,PRJNA369713,Ambulance,USA,Suction_O2,W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240588,PRJNA369713,Ambulance,USA,RearBench_seats,W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240589,PRJNA369713,Ambulance,USA,RearHandles_rails,W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240590,PRJNA369713,Ambulance,USA,Stretcher,W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240593,PRJNA369713,Ambulance,USA,RearLights_controlPanel,W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240594,PRJNA369713,Ambulance,USA,Suction_O2,W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240595,PRJNA369713,Ambulance,USA,RearCabinets_counters,W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240596,PRJNA369713,Ambulance,USA,RearBench_seats,W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240597,PRJNA369713,Ambulance,USA,RearHandles_rails,W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240598,PRJNA369713,Ambulance,USA,Stretcher,W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240600,PRJNA369713,Ambulance,USA,FrontHandles,W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240601,PRJNA369713,Ambulance,USA,SteeringWheel_DriverControls,W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240603,PRJNA369713,Ambulance,USA,Suction_O2,W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240604,PRJNA369713,Ambulance,USA,RearCabinets_counters,W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240605,PRJNA369713,Ambulance,USA,RearBench_seats,W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240606,PRJNA369713,Ambulance,USA,RearHandles_rails,W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240607,PRJNA369713,Ambulance,USA,Stretcher,W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240608,PRJNA369713,Ambulance,USA,FrontHandles,W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240609,PRJNA369713,Ambulance,USA,SteeringWheel_DriverControls,W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240612,PRJNA369713,Ambulance,USA,RearCabinets_counters,S_W_W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240613,PRJNA369713,Ambulance,USA,RearHandles_rails,S_W_W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240614,PRJNA369713,Ambulance,USA,Computer,S_W_W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240615,PRJNA369713,Ambulance,USA,FrontHandles,S_W_W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240616,PRJNA369713,Ambulance,USA,SteeringWheel_DriverControls,S_W_W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240617,PRJNA369713,Ambulance,USA,Computer,S_W_W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240618,PRJNA369713,Ambulance,USA,Computer,S_W_W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240619,PRJNA369713,Ambulance,USA,Computer,S_W_W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240622,PRJNA369713,Ambulance,USA,Computer,S_W_W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240624,PRJNA369713,Ambulance,USA,RearCabinets_counters,S_W_W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240625,PRJNA369713,Ambulance,USA,RearBench_seats,S_W_W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240626,PRJNA369713,Ambulance,USA,Computer,S_W_W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240627,PRJNA369713,Ambulance,USA,FrontHandles,S_W_W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240628,PRJNA369713,Ambulance,USA,SteeringWheel_DriverControls,S_W_W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240629,PRJNA369713,Ambulance,USA,Computer,S_W_W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240630,PRJNA369713,Ambulance,USA,Computer,S_W_W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240631,PRJNA369713,Ambulance,USA,RearCabinets_counters,S_W_W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240632,PRJNA369713,Ambulance,USA,Computer,S_W_W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240633,PRJNA369713,Ambulance,USA,RearLights_controlPanel,S_W_W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240634,PRJNA369713,Ambulance,USA,Suction_O2,S_W_W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240635,PRJNA369713,Ambulance,USA,RearCabinets_counters,S_W_W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240636,PRJNA369713,Ambulance,USA,RearHandles_rails,S_W_W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240637,PRJNA369713,Ambulance,USA,Stretcher,S_W_W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240638,PRJNA369713,Ambulance,USA,Computer,S_W_W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240639,PRJNA369713,Ambulance,USA,FrontHandles,S_W_W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240640,PRJNA369713,Ambulance,USA,Suction_O2,S_W_W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240641,PRJNA369713,Ambulance,USA,Stretcher,S_W_W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240642,PRJNA369713,Ambulance,USA,Computer,S_W_W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240643,PRJNA369713,Ambulance,USA,Computer,S_W_W_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240644,PRJNA369713,Ambulance,USA,Stethoscope,S_e,North America,Illumina_HiSeq_2500,WCMC
+SRR5240649,PRJNA369713,Ambulance,USA,Stethoscope,S_e,North America,Illumina_HiSeq_2500,WCMC
+SRR5240650,PRJNA369713,Ambulance,USA,Stethoscope,S_e,North America,Illumina_HiSeq_2500,WCMC
+SRR5240651,PRJNA369713,Ambulance,USA,Stethoscope,S_e,North America,Illumina_HiSeq_2500,WCMC
+SRR5240652,PRJNA369713,Ambulance,USA,Stethoscope,S_e,North America,Illumina_HiSeq_2500,WCMC
+SRR5240653,PRJNA369713,Ambulance,USA,Stethoscope,S_e,North America,Illumina_HiSeq_2500,WCMC
+SRR5240654,PRJNA369713,Ambulance,USA,RearLights_controlPanel,S_e,North America,Illumina_HiSeq_2500,WCMC
+SRR5240655,PRJNA369713,Ambulance,USA,Suction_O2,S_e,North America,Illumina_HiSeq_2500,WCMC
+SRR5240657,PRJNA369713,Ambulance,USA,Computer,S_e,North America,Illumina_HiSeq_2500,WCMC
+SRR5240659,PRJNA369713,Ambulance,USA,RearLights_controlPanel,S_e,North America,Illumina_HiSeq_2500,WCMC
+SRR5240660,PRJNA369713,Ambulance,USA,Stretcher,S_e,North America,Illumina_HiSeq_2500,WCMC
+SRR5240662,PRJNA369713,Ambulance,USA,FrontHandles,S_e,North America,Illumina_HiSeq_2500,WCMC
+SRR5240663,PRJNA369713,Ambulance,USA,RearBench_seats,S_e,North America,Illumina_HiSeq_2500,WCMC
+SRR5240664,PRJNA369713,Ambulance,USA,Computer,S_e,North America,Illumina_HiSeq_2500,WCMC
+SRR5240665,PRJNA369713,Ambulance,USA,FrontHandles,S_e,North America,Illumina_HiSeq_2500,WCMC
+SRR5240666,PRJNA369713,Ambulance,USA,RearCabinets_counters,S_e,North America,Illumina_HiSeq_2500,WCMC
+SRR5240667,PRJNA369713,Ambulance,USA,RearHandles_rails,S_e,North America,Illumina_HiSeq_2500,WCMC
+SRR5240669,PRJNA369713,Ambulance,USA,Computer,S_e,North America,Illumina_HiSeq_2500,WCMC
+SRR5240670,PRJNA369713,Ambulance,USA,Computer,S_e,North America,Illumina_HiSeq_2500,WCMC
+SRR5240671,PRJNA369713,Ambulance,USA,Computer,S_e,North America,Illumina_HiSeq_2500,WCMC
+SRR5240672,PRJNA369713,Ambulance,USA,RearBench_seats,S_e,North America,Illumina_HiSeq_2500,WCMC
+SRR5240673,PRJNA369713,Ambulance,USA,Computer,S_e,North America,Illumina_HiSeq_2500,WCMC
+SRR5240674,PRJNA369713,Ambulance,USA,Computer,S_e,North America,Illumina_HiSeq_2500,WCMC
+SRR5240675,PRJNA369713,Ambulance,USA,Computer,S_e,North America,Illumina_HiSeq_2500,WCMC
+SRR5240676,PRJNA369713,Ambulance,USA,Computer,S_e,North America,Illumina_HiSeq_2500,WCMC
+SRR5240677,PRJNA369713,Ambulance,USA,Computer,S_e,North America,Illumina_HiSeq_2500,WCMC
+SRR5240679,PRJNA369713,Ambulance,USA,Computer,S_e,North America,Illumina_HiSeq_2500,WCMC
+SRR5240680,PRJNA369713,Ambulance,USA,Computer,E_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240681,PRJNA369713,Ambulance,USA,Computer,E_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240682,PRJNA369713,Ambulance,USA,Computer,E_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240683,PRJNA369713,Ambulance,USA,Computer,E_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240684,PRJNA369713,Ambulance,USA,Computer,E_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240685,PRJNA369713,Ambulance,USA,Computer,E_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR5240686,PRJNA369713,Ambulance,USA,Computer,E_coast,North America,Illumina_HiSeq_2500,WCMC
+SRR1748536,PRJNA271013,Public_transport,USA,Parking_meter,New York City,North America,Illumina_HiSeq_2500,WCMC
+SRR1748547,PRJNA271013,Public_transport,USA,Bench,New York City,North America,Illumina_MiSeq,WCMC
+SRR1748548,PRJNA271013,Public_transport,USA,Bench,New York City,North America,Illumina_HiSeq_2500,WCMC
+SRR1748550,PRJNA271013,Public_transport,USA,Bench,New York City,North America,Illumina_HiSeq_2500,WCMC
+SRR1748552,PRJNA271013,Public_transport,USA,Seat_hand_rail,New York City,North America,Illumina_HiSeq_2500,WCMC
+SRR1748556,PRJNA271013,Public_transport,USA,Stairway_rail,New York City,North America,Illumina_HiSeq_2500,WCMC
+SRR1748558,PRJNA271013,Public_transport,USA,Garbage_can,New York City,North America,Illumina_HiSeq_2500,WCMC
+SRR1748560,PRJNA271013,Public_transport,USA,Bench,New York City,North America,Illumina_HiSeq_2500,WCMC
+SRR1748562,PRJNA271013,Public_transport,USA,Garbage_can,New York City,North America,Illumina_HiSeq_2500,WCMC
+SRR1748568,PRJNA271013,Public_transport,USA,Stairway_rail,New York City,North America,Illumina_HiSeq_2500,WCMC
+SRR1748569,PRJNA271013,Public_transport,USA,Kiosk,New York City,North America,Illumina_HiSeq_2500,WCMC
+SRR1748572,PRJNA271013,Public_transport,USA,Turnstile,New York City,North America,Illumina_HiSeq_2500,WCMC
+SRR1748573,PRJNA271013,Public_transport,USA,Turnstile,New York City,North America,Illumina_MiSeq,WCMC
+SRR1748574,PRJNA271013,Public_transport,USA,Garbage_can,New York City,North America,Illumina_HiSeq_2500,WCMC
+SRR1748576,PRJNA271013,Public_transport,USA,Garbage_can,New York City,North America,Illumina_MiSeq,WCMC
+SRR1748577,PRJNA271013,Public_transport,USA,Turnstile,New York City,North America,Illumina_HiSeq_2500,WCMC
+SRR1748579,PRJNA271013,Public_transport,USA,Turnstile,New York City,North America,Illumina_MiSeq,WCMC
+SRR1748580,PRJNA271013,Public_transport,USA,Kiosk,New York City,North America,Illumina_HiSeq_2500,WCMC
+SRR1748582,PRJNA271013,Public_transport,USA,Kiosk,New York City,North America,Illumina_MiSeq,WCMC
+SRR1748583,PRJNA271013,Public_transport,USA,Bench,New York City,North America,Illumina_HiSeq_2500,WCMC
+SRR1748585,PRJNA271013,Public_transport,USA,Bench,New York City,North America,Illumina_MiSeq,WCMC
+SRR1748587,PRJNA271013,Public_transport,USA,Escalator,New York City,North America,Illumina_HiSeq_2500,WCMC
+SRR1748588,PRJNA271013,Public_transport,USA,Kiosk,New York City,North America,Illumina_HiSeq_2500,WCMC
+SRR1748590,PRJNA271013,Public_transport,USA,Kiosk,New York City,North America,Illumina_MiSeq,WCMC
+SRR1748593,PRJNA271013,Public_transport,USA,Pole,New York City,North America,Illumina_MiSeq,WCMC
+SRR1748594,PRJNA271013,Public_transport,USA,Bench,New York City,North America,Illumina_HiSeq_2500,WCMC
+SRR1748596,PRJNA271013,Public_transport,USA,Bench,New York City,North America,Illumina_MiSeq,WCMC
+SRR1748597,PRJNA271013,Public_transport,USA,Stairway_rail,New York City,North America,Illumina_HiSeq_2500,WCMC
+SRR1748599,PRJNA271013,Public_transport,USA,Stairway_rail,New York City,North America,Illumina_MiSeq,WCMC
+SRR1748601,PRJNA271013,Public_transport,USA,Hand_rail,New York City,North America,Illumina_MiSeq,WCMC
+SRR1748602,PRJNA271013,Public_transport,USA,Kiosk,New York City,North America,Illumina_MiSeq,WCMC
+SRR1748603,PRJNA271013,Public_transport,USA,Kiosk,New York City,North America,Illumina_MiSeq,WCMC
+SRR1748604,PRJNA271013,Public_transport,USA,Turnstile,New York City,North America,Illumina_HiSeq_2500,WCMC
+SRR1748606,PRJNA271013,Public_transport,USA,Turnstile,New York City,North America,Illumina_MiSeq,WCMC
+SRR1748608,PRJNA271013,Public_transport,USA,Rail_pole,New York City,North America,Illumina_HiSeq_2500,WCMC
+SRR1748610,PRJNA271013,Public_transport,USA,Stairway_rail,New York City,North America,Illumina_HiSeq_2500,WCMC
+SRR1748615,PRJNA271013,Public_transport,USA,Rail_pole,New York City,North America,Illumina_HiSeq_2500,WCMC
+SRR1748617,PRJNA271013,Public_transport,USA,Bench,New York City,North America,Illumina_MiSeq,WCMC
+SRR1748618,PRJNA271013,Public_transport,USA,Stairway_rail,New York City,North America,Illumina_MiSeq,WCMC
+SRR1748622,PRJNA271013,Public_transport,USA,Rail_pole,New York City,North America,Illumina_MiSeq,WCMC
+SRR1748623,PRJNA271013,Public_transport,USA,Bench,New York City,North America,Illumina_MiSeq,WCMC
+SRR1748624,PRJNA271013,Public_transport,USA,Rail_pole,New York City,North America,Illumina_HiSeq_2500,WCMC
+SRR1748625,PRJNA271013,Public_transport,USA,Rail_pole,New York City,North America,Illumina_MiSeq,WCMC
+SRR1748626,PRJNA271013,Public_transport,USA,Rail_pole,New York City,North America,Illumina_MiSeq,WCMC
+SRR1748627,PRJNA271013,Public_transport,USA,Bench,New York City,North America,Illumina_HiSeq_2500,WCMC
+SRR1748629,PRJNA271013,Public_transport,USA,Bench,New York City,North America,Illumina_MiSeq,WCMC
+SRR1748631,PRJNA271013,Public_transport,USA,Rail_pole,New York City,North America,Illumina_MiSeq,WCMC
+SRR1748632,PRJNA271013,Public_transport,USA,Bench,New York City,North America,Illumina_HiSeq_2500,WCMC
+SRR1748634,PRJNA271013,Public_transport,USA,Bench,New York City,North America,Illumina_MiSeq,WCMC
+SRR1748636,PRJNA271013,Public_transport,USA,Bench,New York City,North America,Illumina_MiSeq,WCMC
+SRR1748638,PRJNA271013,Public_transport,USA,Stairway_rail,New York City,North America,Illumina_HiSeq_2500,WCMC
+SRR1748639,PRJNA271013,Public_transport,USA,Bench,New York City,North America,Illumina_HiSeq_2500,WCMC
+SRR1748641,PRJNA271013,Public_transport,USA,Bench,New York City,North America,Illumina_MiSeq,WCMC
+SRR1748642,PRJNA271013,Public_transport,USA,Hand_rail,New York City,North America,Illumina_HiSeq_2500,WCMC
+SRR1748643,PRJNA271013,Public_transport,USA,Hand_rail,New York City,North America,Illumina_MiSeq,WCMC
+SRR1748644,PRJNA271013,Public_transport,USA,Hand_rail,New York City,North America,Illumina_MiSeq,WCMC
+SRR1748645,PRJNA271013,Public_transport,USA,Garbage_can,New York City,North America,Illumina_MiSeq,WCMC
+SRR1748646,PRJNA271013,Public_transport,USA,Stairway_rail,New York City,North America,Illumina_HiSeq_2500,WCMC
+SRR1748648,PRJNA271013,Public_transport,USA,Stairway_rail,New York City,North America,Illumina_MiSeq,WCMC
+SRR3545898,PRJNA301589,Public_transport,USA,Horizontal_pole,Boston,North America,Illumina_HiSeq_2000,BI
+SRR3545919,PRJNA301589,Public_transport,USA,Seat_back,Boston,North America,Illumina_HiSeq_2000,BI
+SRR3545934,PRJNA301589,Public_transport,USA,Touchscreen,Boston,North America,Illumina_HiSeq_2000,BI
+SRR3545941,PRJNA301589,Public_transport,USA,Grip,Boston,North America,Illumina_HiSeq_2000,BI
+SRR3545948,PRJNA301589,Public_transport,USA,Seat_back,Boston,North America,Illumina_HiSeq_2000,BI
+SRR3545955,PRJNA301589,Public_transport,USA,Touchscreen,Boston,North America,Illumina_HiSeq_2000,BI
+SRR3545963,PRJNA301589,Public_transport,USA,Touchscreen,Boston,North America,Illumina_HiSeq_2000,BI
+SRR3546354,PRJNA301589,Public_transport,USA,Grip,Boston,North America,Illumina_HiSeq_2000,BI
+SRR3546358,PRJNA301589,Public_transport,USA,Grip,Boston,North America,Illumina_HiSeq_2000,BI
+SRR3546361,PRJNA301589,Public_transport,USA,Grip,Boston,North America,Illumina_HiSeq_2000,BI
+SRR3546363,PRJNA301589,Public_transport,USA,Touchscreen,Boston,North America,Illumina_HiSeq_2000,BI
+SRR3546365,PRJNA301589,Public_transport,USA,Touchscreen,Boston,North America,Illumina_HiSeq_2000,BI
+SRR3546367,PRJNA301589,Public_transport,USA,Touchscreen,Boston,North America,Illumina_HiSeq_2000,BI
+SRR3546371,PRJNA301589,Public_transport,USA,Grip,Boston,North America,Illumina_HiSeq_2000,BI
+SRR3546375,PRJNA301589,Public_transport,USA,Touchscreen,Boston,North America,Illumina_HiSeq_2000,BI
+SRR3546380,PRJNA301589,Public_transport,USA,Vertical_pole,Boston,North America,Illumina_HiSeq_2000,BI
+SRR3555059,PRJNA301589,Public_transport,USA,Touchscreen,Boston,North America,Illumina_HiSeq_2000,BI
+SRR6145058,PRJNA413474,Public_transport,China,Palm_TC_line,Hong Kong,Asia,Illumina_HiSeq_2000,UHK
+SRR6145059,PRJNA413474,Public_transport,China,Palm_WR_line,Hong Kong,Asia,Illumina_HiSeq_2000,UHK
+SRR6145060,PRJNA413474,Public_transport,China,Palm_WR_line,Hong Kong,Asia,Illumina_HiSeq_2000,UHK
+SRR6145061,PRJNA413474,Public_transport,China,Palm_TC_line,Hong Kong,Asia,Illumina_HiSeq_2000,UHK
+SRR6145062,PRJNA413474,Public_transport,China,Palm_TW_line,Hong Kong,Asia,Illumina_HiSeq_2000,UHK
+SRR6145063,PRJNA413474,Public_transport,China,Palm_TW_line,Hong Kong,Asia,Illumina_HiSeq_2000,UHK
+SRR6145064,PRJNA413474,Public_transport,China,Palm_MOS_line,Hong Kong,Asia,Illumina_HiSeq_2000,UHK
+SRR6145066,PRJNA413474,Public_transport,China,Palm_MOS_line,Hong Kong,Asia,Illumina_HiSeq_2000,UHK
+SRR6145067,PRJNA413474,Public_transport,China,Palm_ER_line,Hong Kong,Asia,Illumina_HiSeq_2000,UHK
+SRR6145069,PRJNA413474,Public_transport,China,Palm_ER_line,Hong Kong,Asia,Illumina_HiSeq_2000,UHK
+SRR6145070,PRJNA413474,Public_transport,China,Palm_TC_line,Hong Kong,Asia,Illumina_HiSeq_2000,UHK
+SRR6145071,PRJNA413474,Public_transport,China,Palm_TW_line,Hong Kong,Asia,Illumina_HiSeq_2000,UHK
+SRR6145072,PRJNA413474,Public_transport,China,Palm_WR_line,Hong Kong,Asia,Illumina_HiSeq_2000,UHK
+SRR6145073,PRJNA413474,Public_transport,China,Palm_TC_line,Hong Kong,Asia,Illumina_HiSeq_2000,UHK
+SRR6145074,PRJNA413474,Public_transport,China,Palm_TW_line,Hong Kong,Asia,Illumina_HiSeq_2000,UHK
+SRR6145075,PRJNA413474,Public_transport,China,Palm_WR_line,Hong Kong,Asia,Illumina_HiSeq_2000,UHK
+SRR6145076,PRJNA413474,Public_transport,China,Palm_ISLAND_line,Hong Kong,Asia,Illumina_HiSeq_2000,UHK
+SRR6145078,PRJNA413474,Public_transport,China,Palm_TC_line,Hong Kong,Asia,Illumina_HiSeq_2000,UHK
+SRR6145079,PRJNA413474,Public_transport,China,Palm_ISLAND_line,Hong Kong,Asia,Illumina_HiSeq_2000,UHK
+SRR6145080,PRJNA413474,Public_transport,China,Palm_WR_line,Hong Kong,Asia,Illumina_HiSeq_2000,UHK
+SRR6145081,PRJNA413474,Public_transport,China,Palm_WR_line,Hong Kong,Asia,Illumina_HiSeq_2000,UHK
+SRR6145082,PRJNA413474,Public_transport,China,Palm_TW_line,Hong Kong,Asia,Illumina_HiSeq_2000,UHK
+SRR6145083,PRJNA413474,Public_transport,China,Palm_KT_line,Hong Kong,Asia,Illumina_HiSeq_2000,UHK
+SRR6145084,PRJNA413474,Public_transport,China,Palm_KT_line,Hong Kong,Asia,Illumina_HiSeq_2000,UHK
+SRR6145085,PRJNA413474,Public_transport,China,Palm_ISLAND_line,Hong Kong,Asia,Illumina_HiSeq_2000,UHK
+SRR6145086,PRJNA413474,Public_transport,China,Palm_TKO_line,Hong Kong,Asia,Illumina_HiSeq_2000,UHK
+SRR6145087,PRJNA413474,Public_transport,China,Palm_TKO_line,Hong Kong,Asia,Illumina_HiSeq_2000,UHK
+SRR6145088,PRJNA413474,Public_transport,China,Palm_KT_line,Hong Kong,Asia,Illumina_HiSeq_2000,UHK
+SRR6145089,PRJNA413474,Public_transport,China,Palm_ISLAND_line,Hong Kong,Asia,Illumina_HiSeq_2000,UHK
+SRR6145090,PRJNA413474,Public_transport,China,Palm_TKO_line,Hong Kong,Asia,Illumina_HiSeq_2000,UHK
+SRR6145091,PRJNA413474,Public_transport,China,Palm_KT_line,Hong Kong,Asia,Illumina_HiSeq_2000,UHK
+SRR6145092,PRJNA413474,Public_transport,China,Palm_ER_line,Hong Kong,Asia,Illumina_HiSeq_2000,UHK
+SRR6145093,PRJNA413474,Public_transport,China,Palm_MOS_line,Hong Kong,Asia,Illumina_HiSeq_2000,UHK
+SRR6145094,PRJNA413474,Public_transport,China,Palm_ER_line,Hong Kong,Asia,Illumina_HiSeq_2000,UHK
+SRR6145095,PRJNA413474,Public_transport,China,Palm_MOS_line,Hong Kong,Asia,Illumina_HiSeq_2000,UHK
+SRR6145096,PRJNA413474,Public_transport,China,Palm_TW_line,Hong Kong,Asia,Illumina_HiSeq_2000,UHK
+SRR6145097,PRJNA413474,Public_transport,China,Palm_TC_line,Hong Kong,Asia,Illumina_HiSeq_2000,UHK
+SRR6145098,PRJNA413474,Public_transport,China,Palm_ER_line,Hong Kong,Asia,Illumina_HiSeq_2000,UHK
+SRR6145099,PRJNA413474,Public_transport,China,Palm_MOS_line,Hong Kong,Asia,Illumina_HiSeq_2000,UHK
+SRR6145100,PRJNA413474,Public_transport,China,Palm_TKO_line,Hong Kong,Asia,Illumina_HiSeq_2000,UHK
+SRR6145101,PRJNA413474,Public_transport,China,Palm_KT_line,Hong Kong,Asia,Illumina_HiSeq_2000,UHK
+SRR6145102,PRJNA413474,Public_transport,China,Palm_ISLAND_line,Hong Kong,Asia,Illumina_HiSeq_2000,UHK
+SRR6145103,PRJNA413474,Public_transport,China,Palm_TKO_line,Hong Kong,Asia,Illumina_HiSeq_2000,UHK
+SRR6145104,PRJNA413474,Public_transport,China,Palm_ISLAND_line,Hong Kong,Asia,Illumina_HiSeq_2000,UHK
+SRR6145105,PRJNA413474,Public_transport,China,Palm_TKO_line,Hong Kong,Asia,Illumina_HiSeq_2000,UHK
+ERR3209754,PRJEB31632,Hospital_environment,Singapore,Aerator,Novena,Asia,Illumina_HiSeq_2000,GIS
+ERR3209755,PRJEB31632,Hospital_environment,Singapore,Aerator,Novena,Asia,Illumina_HiSeq_2000,GIS
+ERR3209756,PRJEB31632,Hospital_environment,Singapore,Aerator,Novena,Asia,Illumina_HiSeq_2000,GIS
+ERR3209757,PRJEB31632,Hospital_environment,Singapore,Aerator,Novena,Asia,Illumina_HiSeq_2000,GIS
+ERR3209758,PRJEB31632,Hospital_environment,Singapore,Aerator,Novena,Asia,Illumina_HiSeq_2000,GIS
+ERR3209759,PRJEB31632,Hospital_environment,Singapore,Aerator,Novena,Asia,Illumina_HiSeq_2000,GIS
+ERR3209760,PRJEB31632,Hospital_environment,Singapore,Bedside_locker,Novena,Asia,Illumina_HiSeq_2000,GIS
+ERR3209761,PRJEB31632,Hospital_environment,Singapore,Bedside_locker,Novena,Asia,Illumina_HiSeq_2000,GIS
+ERR3209762,PRJEB31632,Hospital_environment,Singapore,Bedside_locker,Novena,Asia,Illumina_HiSeq_2000,GIS
+ERR3209763,PRJEB31632,Hospital_environment,Singapore,Bedside_locker,Novena,Asia,Illumina_HiSeq_2000,GIS
+ERR3209764,PRJEB31632,Hospital_environment,Singapore,Bedside_locker,Novena,Asia,Illumina_HiSeq_2000,GIS
+ERR3209766,PRJEB31632,Hospital_environment,Singapore,Bedrail,Novena,Asia,Illumina_HiSeq_2000,GIS
+ERR3209767,PRJEB31632,Hospital_environment,Singapore,Bedrail,Novena,Asia,Illumina_HiSeq_2000,GIS
+ERR3209770,PRJEB31632,Hospital_environment,Singapore,Cardiac_table,Novena,Asia,Illumina_HiSeq_2000,GIS
+ERR3209771,PRJEB31632,Hospital_environment,Singapore,Cardiac_table,Novena,Asia,Illumina_HiSeq_2000,GIS
+ERR3209772,PRJEB31632,Hospital_environment,Singapore,Cardiac_table,Novena,Asia,Illumina_HiSeq_2000,GIS
+ERR3209773,PRJEB31632,Hospital_environment,Singapore,Cardiac_table,Novena,Asia,Illumina_HiSeq_2000,GIS
+ERR3209774,PRJEB31632,Hospital_environment,Singapore,Door_handle,Novena,Asia,Illumina_HiSeq_2000,GIS
+ERR3209775,PRJEB31632,Hospital_environment,Singapore,Door_handle,Novena,Asia,Illumina_HiSeq_2000,GIS
+ERR3209776,PRJEB31632,Hospital_environment,Singapore,Door_handle,Novena,Asia,Illumina_HiSeq_2000,GIS
+ERR3209778,PRJEB31632,Hospital_environment,Singapore,Pulse_oxymeter,Novena,Asia,Illumina_HiSeq_2000,GIS
+ERR3209781,PRJEB31632,Hospital_environment,Singapore,Sink_trap,Novena,Asia,Illumina_HiSeq_2000,GIS
+ERR3209783,PRJEB31632,Hospital_environment,Singapore,Sink_trap,Novena,Asia,Illumina_HiSeq_2000,GIS
+ERR3209784,PRJEB31632,Hospital_environment,Singapore,Sink_trap,Novena,Asia,Illumina_HiSeq_2000,GIS
+ERR3209785,PRJEB31632,Hospital_environment,Singapore,Sink_trap,Novena,Asia,Illumina_HiSeq_2000,GIS
+ERR3209786,PRJEB31632,Hospital_environment,Singapore,Sink_trap,Novena,Asia,Illumina_HiSeq_2000,GIS
+ERR3209787,PRJEB31632,Hospital_environment,Singapore,Bedside_locker,Novena,Asia,Illumina_HiSeq_2000,GIS
+ERR3209788,PRJEB31632,Hospital_environment,Singapore,Bedrail,Novena,Asia,Illumina_HiSeq_2000,GIS
+ERR3209789,PRJEB31632,Hospital_environment,Singapore,Cardiac_table,Novena,Asia,Illumina_HiSeq_2000,GIS
+ERR3209790,PRJEB31632,Hospital_environment,Singapore,Bedside_locker,Novena,Asia,Illumina_HiSeq_2000,GIS
+ERR3209791,PRJEB31632,Hospital_environment,Singapore,Bedrail,Novena,Asia,Illumina_HiSeq_2000,GIS
+ERR3209792,PRJEB31632,Hospital_environment,Singapore,Cardiac_table,Novena,Asia,Illumina_HiSeq_2000,GIS
+ERR3209793,PRJEB31632,Hospital_environment,Singapore,Bedside_locker,Novena,Asia,Illumina_HiSeq_2000,GIS
+ERR3209794,PRJEB31632,Hospital_environment,Singapore,Bedrail,Novena,Asia,Illumina_HiSeq_2000,GIS
+ERR3209795,PRJEB31632,Hospital_environment,Singapore,Cardiac_table,Novena,Asia,Illumina_HiSeq_2000,GIS
+ERR3209796,PRJEB31632,Hospital_environment,Singapore,Bedside_locker,Novena,Asia,Illumina_HiSeq_2000,GIS
+ERR3209798,PRJEB31632,Hospital_environment,Singapore,Cardiac_table,Novena,Asia,Illumina_HiSeq_2000,GIS
+ERR3209799,PRJEB31632,Hospital_environment,Singapore,Bedside_locker,Novena,Asia,Illumina_HiSeq_2000,GIS
+ERR3209800,PRJEB31632,Hospital_environment,Singapore,Bedside_locker,Novena,Asia,Illumina_HiSeq_2000,GIS
+ERR3209801,PRJEB31632,Hospital_environment,Singapore,Bedrail,Novena,Asia,Illumina_HiSeq_2000,GIS
+ERR3209802,PRJEB31632,Hospital_environment,Singapore,Cardiac_table,Novena,Asia,Illumina_HiSeq_2000,GIS
+ERR3209803,PRJEB31632,Hospital_environment,Singapore,Aerator,Novena,Asia,Illumina_HiSeq_2000,GIS
+ERR3209804,PRJEB31632,Hospital_environment,Singapore,Pulse_oxymeter,Novena,Asia,Illumina_HiSeq_2000,GIS
+ERR3209805,PRJEB31632,Hospital_environment,Singapore,Sink_trap,Novena,Asia,Illumina_HiSeq_2000,GIS
+ERR3209806,PRJEB31632,Hospital_environment,Singapore,Bedside_locker,Novena,Asia,Illumina_HiSeq_2000,GIS
+ERR3209807,PRJEB31632,Hospital_environment,Singapore,Bedside_locker,Novena,Asia,Illumina_HiSeq_2000,GIS
+ERR3209808,PRJEB31632,Hospital_environment,Singapore,Bedside_locker,Novena,Asia,Illumina_HiSeq_2000,GIS
+ERR3209809,PRJEB31632,Hospital_environment,Singapore,Bedrail,Novena,Asia,Illumina_HiSeq_2000,GIS
+ERR3209810,PRJEB31632,Hospital_environment,Singapore,Bedrail,Novena,Asia,Illumina_HiSeq_2000,GIS
+ERR3209811,PRJEB31632,Hospital_environment,Singapore,Bedrail,Novena,Asia,Illumina_HiSeq_2000,GIS
+ERR3209815,PRJEB31632,Hospital_environment,Singapore,Bedside_locker,Novena,Asia,Illumina_HiSeq_2000,GIS
+ERR3209816,PRJEB31632,Hospital_environment,Singapore,Bedside_locker,Novena,Asia,Illumina_HiSeq_2000,GIS
+ERR3209817,PRJEB31632,Hospital_environment,Singapore,Bedside_locker,Novena,Asia,Illumina_HiSeq_2000,GIS
+ERR3675726,PRJEB31632,Hospital_environment,Singapore,Sink_trap,Novena,Asia,Illumina_HiSeq_4000,GIS
+ERR3675731,PRJEB31632,Hospital_environment,Singapore,Sink_trap,Novena,Asia,Illumina_HiSeq_4000,GIS
+ERR3675733,PRJEB31632,Hospital_environment,Singapore,Sink_trap,Novena,Asia,Illumina_HiSeq_4000,GIS
+ERR3675737,PRJEB31632,Hospital_environment,Singapore,Sink_trap,Novena,Asia,Illumina_HiSeq_4000,GIS
+ERR3675745,PRJEB31632,Hospital_environment,Singapore,Sink_trap,Novena,Asia,Illumina_HiSeq_4000,GIS
+ERR3675750,PRJEB31632,Hospital_environment,Singapore,Pulse_oxymeter,Novena,Asia,Illumina_HiSeq_4000,GIS
+ERR3675751,PRJEB31632,Hospital_environment,Singapore,Sink_trap,Novena,Asia,Illumina_HiSeq_4000,GIS
+ERR3675757,PRJEB31632,Hospital_environment,Singapore,Sink_trap,Novena,Asia,Illumina_HiSeq_4000,GIS
+ERR3675771,PRJEB31632,Hospital_environment,Singapore,Sink_trap,Novena,Asia,Illumina_HiSeq_4000,GIS
+ERR3675783,PRJEB31632,Hospital_environment,Singapore,Sink_trap,Novena,Asia,Illumina_HiSeq_4000,GIS
+ERR3675785,PRJEB31632,Hospital_environment,Singapore,Sink_trap,Novena,Asia,Illumina_HiSeq_4000,GIS
+ERR3675787,PRJEB31632,Hospital_environment,Singapore,Sink_trap,Novena,Asia,Illumina_HiSeq_4000,GIS
+ERR3675792,PRJEB31632,Hospital_environment,Singapore,Pulse_oxymeter,Novena,Asia,Illumina_HiSeq_4000,GIS
+ERR3675793,PRJEB31632,Hospital_environment,Singapore,Sink_trap,Novena,Asia,Illumina HiSeq 4001,GIS
+ERR3675795,PRJEB31632,Hospital_environment,Singapore,Sink_trap,Novena,Asia,Illumina_HiSeq_4000,GIS
+ERR3775118,PRJEB35979,Hospital_environment,China,Built-in_air_conditioner,Shenzhen,Asia,HiSeq_X_Ten,XYLAB
+ERR3775119,PRJEB35979,Hospital_environment,China,Built-in_air_conditioner,Shenzhen,Asia,HiSeq_X_Ten,XYLAB
+SRR16025372,PRJNA765404,Hospital_environment,USA,Mechanical_ventilator,Chicago,North America,Illumina_MiSeq,NWU
+SRR16025383,PRJNA765404,Hospital_environment,USA,Mechanical_ventilator,Chicago,North America,Illumina_MiSeq,NWU
+SRR16025405,PRJNA765404,Hospital_environment,USA,Mechanical_ventilator,Chicago,North America,Illumina_MiSeq,NWU
+SRR16025416,PRJNA765404,Hospital_environment,USA,Mechanical_ventilator,Chicago,North America,Illumina_MiSeq,NWU
+SRR16025427,PRJNA765404,Hospital_environment,USA,Mechanical_ventilator,Chicago,North America,Illumina_MiSeq,NWU
+SRR16025449,PRJNA765404,Hospital_environment,USA,Mechanical_ventilator,Chicago,North America,Illumina_MiSeq,NWU
+SRR16025526,PRJNA765404,Hospital_environment,USA,Mechanical_ventilator,Chicago,North America,Illumina_MiSeq,NWU
+SRR16025527,PRJNA765404,Hospital_environment,USA,Mechanical_ventilator,Chicago,North America,Illumina_MiSeq,NWU
+SRR16025528,PRJNA765404,Hospital_environment,USA,Mechanical_ventilator,Chicago,North America,Illumina_MiSeq,NWU
+SRR5420280,PRJNA376580,Hospital_environment,USA,Monitor,Pittsburgh,North America,Illumina_HiSeq_4000,NONE
+ERR3569138,PRJEB34690,Hospital_sewage,South Africa,Wastewater,Pretoria,Africa,HiSeq_X_Ten,TUT
+ERR3569140,PRJEB34690,Hospital_sewage,South Africa,Wastewater,Pretoria,Africa,HiSeq_X_Ten,TUT
+ERR3569141,PRJEB34690,Hospital_sewage,South Africa,Wastewater,Pretoria,Africa,HiSeq_X_Ten,TUT
+ERR3569142,PRJEB34690,Hospital_sewage,South Africa,Wastewater,Pretoria,Africa,HiSeq_X_Ten,TUT
+ERR3569143,PRJEB34690,Hospital_sewage,South Africa,Wastewater,Pretoria,Africa,HiSeq_X_Ten,TUT
+ERR3569144,PRJEB34690,Hospital_sewage,South Africa,Wastewater,Pretoria,Africa,HiSeq_X_Ten,TUT
+ERR3569145,PRJEB34690,Hospital_sewage,South Africa,Wastewater,Pretoria,Africa,HiSeq_X_Ten,TUT
+ERR3569146,PRJEB34690,Hospital_sewage,South Africa,Wastewater,Pretoria,Africa,HiSeq_X_Ten,TUT
+ERR3569147,PRJEB34690,Hospital_sewage,South Africa,Wastewater,Pretoria,Africa,HiSeq_X_Ten,TUT
+ERR3569148,PRJEB34690,Hospital_sewage,South Africa,Wastewater,Pretoria,Africa,HiSeq_X_Ten,TUT
+ERR3569149,PRJEB34690,Hospital_sewage,South Africa,Wastewater,Pretoria,Africa,HiSeq_X_Ten,TUT
+ERR3569150,PRJEB34690,Hospital_sewage,South Africa,Wastewater,Pretoria,Africa,HiSeq_X_Ten,TUT
+ERR3569152,PRJEB34690,Hospital_sewage,South Africa,Wastewater,Pretoria,Africa,HiSeq_X_Ten,TUT
+ERR3569153,PRJEB34690,Hospital_sewage,South Africa,Wastewater,Pretoria,Africa,HiSeq_X_Ten,TUT
+ERR3569154,PRJEB34690,Hospital_sewage,South Africa,Wastewater,Pretoria,Africa,HiSeq_X_Ten,TUT
+ERR3928854,PRJEB36775,Hospital_sewage,United Kingdom,Sink_drain,United Kingdom,Europe,Illumina_HiSeq_4000,MMM
+ERR3928886,PRJEB36775,Hospital_sewage,United Kingdom,Sink_drain,United Kingdom,Europe,Illumina_HiSeq_4000,MMM
+ERR3928887,PRJEB36775,Hospital_sewage,United Kingdom,Sink_drain,United Kingdom,Europe,Illumina_HiSeq_4000,MMM
+ERR3928888,PRJEB36775,Hospital_sewage,United Kingdom,Sink_drain,United Kingdom,Europe,Illumina_HiSeq_4000,MMM
+ERR3928889,PRJEB36775,Hospital_sewage,United Kingdom,Sink_drain,United Kingdom,Europe,Illumina_HiSeq_4000,MMM
+ERR3928891,PRJEB36775,Hospital_sewage,United Kingdom,Sink_drain,United Kingdom,Europe,Illumina_HiSeq_4000,MMM
+ERR3928893,PRJEB36775,Hospital_sewage,United Kingdom,Sink_drain,United Kingdom,Europe,Illumina_HiSeq_4000,MMM
+ERR3928894,PRJEB36775,Hospital_sewage,United Kingdom,Sink_drain,United Kingdom,Europe,Illumina_HiSeq_4000,MMM
+ERR3928895,PRJEB36775,Hospital_sewage,United Kingdom,Sink_drain,United Kingdom,Europe,Illumina_HiSeq_4000,MMM
+ERR3928896,PRJEB36775,Hospital_sewage,United Kingdom,Sink_drain,United Kingdom,Europe,Illumina_HiSeq_4000,MMM
+ERR3928899,PRJEB36775,Hospital_sewage,United Kingdom,Sink_drain,United Kingdom,Europe,Illumina_HiSeq_4000,MMM
+ERR3928901,PRJEB36775,Hospital_sewage,United Kingdom,Sink_drain,United Kingdom,Europe,Illumina_HiSeq_4000,MMM
+ERR3928902,PRJEB36775,Hospital_sewage,United Kingdom,Sink_drain,United Kingdom,Europe,Illumina_HiSeq_4000,MMM
+ERR3928903,PRJEB36775,Hospital_sewage,United Kingdom,Sink_drain,United Kingdom,Europe,Illumina_HiSeq_4000,MMM
+ERR3928924,PRJEB36775,Hospital_sewage,United Kingdom,Sink_drain,United Kingdom,Europe,Illumina_HiSeq_4000,MMM
+ERR3928927,PRJEB36775,Hospital_sewage,United Kingdom,Sink_drain,United Kingdom,Europe,Illumina_HiSeq_4000,MMM
+ERR7015311,PRJEB47975,Hospital_sewage,Benin,Septic_tank,Abomey-calavi,Africa,Illumina_NovaSeq_6000,UH
+ERR7015312,PRJEB47975,Hospital_sewage,Benin,Septic_tank,Abomey-calavi,Africa,Illumina_NovaSeq_6000,UH
+ERR7015313,PRJEB47975,Hospital_sewage,Benin,Septic_tank,Abomey-calavi,Africa,Illumina_NovaSeq_6000,UH
+ERR7015315,PRJEB47975,Hospital_sewage,Benin,Septic_tank,Abomey-calavi,Africa,Illumina_NovaSeq_6000,UH
+ERR7015316,PRJEB47975,Hospital_sewage,Benin,Septic_tank,Abomey-calavi,Africa,Illumina_NovaSeq_6000,UH
+ERR7015317,PRJEB47975,Hospital_sewage,Benin,Septic_tank,Abomey-calavi,Africa,Illumina_NovaSeq_6000,UH
+ERR7015318,PRJEB47975,Hospital_sewage,Benin,Septic_tank,Abomey-calavi,Africa,Illumina_NovaSeq_6000,UH
+ERR7015320,PRJEB47975,Hospital_sewage,Benin,Septic_tank,Abomey-calavi,Africa,Illumina_NovaSeq_6000,UH
+ERR7015321,PRJEB47975,Hospital_sewage,Benin,Septic_tank,Abomey-calavi,Africa,Illumina_NovaSeq_6000,UH
+ERR7015327,PRJEB47975,Hospital_sewage,Benin,Septic_tank,Abomey-calavi,Africa,Illumina_NovaSeq_6000,UH
+ERR7015328,PRJEB47975,Hospital_sewage,Benin,Septic_tank,Abomey-calavi,Africa,Illumina_NovaSeq_6000,UH
+ERR7015329,PRJEB47975,Hospital_sewage,Benin,Septic_tank,Abomey-calavi,Africa,Illumina_NovaSeq_6000,UH
+ERR7015330,PRJEB47975,Hospital_sewage,Benin,Septic_tank,Abomey-calavi,Africa,Illumina_NovaSeq_6000,UH
+ERR7015332,PRJEB47975,Hospital_sewage,Benin,Septic_tank,Abomey-calavi,Africa,Illumina_NovaSeq_6000,UH
+ERR7015333,PRJEB47975,Hospital_sewage,Benin,Septic_tank,Abomey-calavi,Africa,Illumina_NovaSeq_6000,UH
+ERR7015334,PRJEB47975,Hospital_sewage,Benin,Septic_tank,Abomey-calavi,Africa,Illumina_NovaSeq_6000,UH
+ERR7015335,PRJEB47975,Hospital_sewage,Benin,Septic_tank,Abomey-calavi,Africa,Illumina_NovaSeq_6000,UH
+ERR7015336,PRJEB47975,Hospital_sewage,Benin,Septic_tank,Abomey-calavi,Africa,Illumina_NovaSeq_6000,UH
+ERR7015337,PRJEB47975,Hospital_sewage,Benin,Septic_tank,Abomey-calavi,Africa,Illumina_NovaSeq_6000,UH
+ERR7015338,PRJEB47975,Hospital_sewage,Benin,Septic_tank,Abomey-calavi,Africa,Illumina_NovaSeq_6000,UH
+ERR7015339,PRJEB47975,Hospital_sewage,Benin,Septic_tank,Abomey-calavi,Africa,Illumina_NovaSeq_6000,UH
+ERR7015340,PRJEB47975,Hospital_sewage,Benin,Septic_tank,Abomey-calavi,Africa,Illumina_NovaSeq_6000,UH
+ERR7015342,PRJEB47975,Hospital_sewage,Benin,Septic_tank,Abomey-calavi,Africa,Illumina_NovaSeq_6000,UH
+ERR7015343,PRJEB47975,Hospital_sewage,Benin,Septic_tank,Abomey-calavi,Africa,Illumina_NovaSeq_6000,UH
+ERR7015345,PRJEB47975,Hospital_sewage,Benin,Septic_tank,Abomey-calavi,Africa,Illumina_NovaSeq_6000,UH
+ERR7015346,PRJEB47975,Hospital_sewage,Benin,Septic_tank,Abomey-calavi,Africa,Illumina_NovaSeq_6000,UH
+ERR7015347,PRJEB47975,Hospital_sewage,Benin,Septic_tank,Abomey-calavi,Africa,Illumina_NovaSeq_6000,UH
+ERR7015348,PRJEB47975,Hospital_sewage,Benin,Septic_tank,Abomey-calavi,Africa,Illumina_NovaSeq_6000,UH
+ERR7015350,PRJEB47975,Hospital_sewage,Benin,Septic_tank,Abomey-calavi,Africa,Illumina_NovaSeq_6000,UH
+ERR7015351,PRJEB47975,Hospital_sewage,Benin,Septic_tank,Abomey-calavi,Africa,Illumina_NovaSeq_6000,UH
+ERR7015353,PRJEB47975,Hospital_sewage,Benin,River,Abomey-calavi,Africa,Illumina_NovaSeq_6000,UH
+ERR7015354,PRJEB47975,Hospital_sewage,Benin,River,Abomey-calavi,Africa,Illumina_NovaSeq_6000,UH
+ERR7015355,PRJEB47975,Hospital_sewage,Benin,River,Abomey-calavi,Africa,Illumina_NovaSeq_6000,UH
+ERR7015356,PRJEB47975,Hospital_sewage,Benin,Tap water,Abomey-calavi,Africa,Illumina_NovaSeq_6000,UH
+ERR7015357,PRJEB47975,Hospital_sewage,Burkina Faso,Septic_tank,Ouagadougou,Africa,Illumina_NovaSeq_6000,UH
+ERR7015358,PRJEB47975,Hospital_sewage,Burkina Faso,Septic_tank,Ouagadougou,Africa,Illumina_NovaSeq_6000,UH
+ERR7015359,PRJEB47975,Hospital_sewage,Burkina Faso,Septic_tank,Ouagadougou,Africa,Illumina_NovaSeq_6000,UH
+ERR7015360,PRJEB47975,Hospital_sewage,Burkina Faso,Septic_tank,Ouagadougou,Africa,Illumina_NovaSeq_6000,UH
+ERR7015361,PRJEB47975,Hospital_sewage,Burkina Faso,Septic_tank,Ouagadougou,Africa,Illumina_NovaSeq_6000,UH
+ERR7015362,PRJEB47975,Hospital_sewage,Burkina Faso,Septic_tank,Ouagadougou,Africa,Illumina_NovaSeq_6000,UH
+ERR7015363,PRJEB47975,Hospital_sewage,Burkina Faso,Septic_tank,Ouagadougou,Africa,Illumina_NovaSeq_6000,UH
+ERR7015364,PRJEB47975,Hospital_sewage,Burkina Faso,Septic_tank,Ouagadougou,Africa,Illumina_NovaSeq_6000,UH
+ERR7015365,PRJEB47975,Hospital_sewage,Burkina Faso,Septic_tank,Ouagadougou,Africa,Illumina_NovaSeq_6000,UH
+ERR7015366,PRJEB47975,Hospital_sewage,Burkina Faso,Septic_tank,Ouagadougou,Africa,Illumina_NovaSeq_6000,UH
+ERR7015367,PRJEB47975,Hospital_sewage,Burkina Faso,Septic_tank,Ouagadougou,Africa,Illumina_NovaSeq_6000,UH
+ERR7015368,PRJEB47975,Hospital_sewage,Burkina Faso,Septic_tank,Ouagadougou,Africa,Illumina_NovaSeq_6000,UH
+ERR7015369,PRJEB47975,Hospital_sewage,Burkina Faso,Septic_tank,Ouagadougou,Africa,Illumina_NovaSeq_6000,UH
+ERR7015370,PRJEB47975,Hospital_sewage,Burkina Faso,Septic_tank,Ouagadougou,Africa,Illumina_NovaSeq_6000,UH
+ERR7015371,PRJEB47975,Hospital_sewage,Burkina Faso,Septic_tank,Ouagadougou,Africa,Illumina_NovaSeq_6000,UH
+ERR7015372,PRJEB47975,Hospital_sewage,Burkina Faso,Septic_tank,Ouagadougou,Africa,Illumina_NovaSeq_6000,UH
+ERR7015373,PRJEB47975,Hospital_sewage,Burkina Faso,Septic_tank,Ouagadougou,Africa,Illumina_NovaSeq_6000,UH
+ERR7015374,PRJEB47975,Hospital_sewage,Burkina Faso,Septic_tank,Ouagadougou,Africa,Illumina_NovaSeq_6000,UH
+ERR7015375,PRJEB47975,Hospital_sewage,Burkina Faso,Septic_tank,Ouagadougou,Africa,Illumina_NovaSeq_6000,UH
+ERR7015376,PRJEB47975,Hospital_sewage,Burkina Faso,Septic_tank,Ouagadougou,Africa,Illumina_NovaSeq_6000,UH
+ERR7015377,PRJEB47975,Hospital_sewage,Burkina Faso,Septic_tank,Ouagadougou,Africa,Illumina_NovaSeq_6000,UH
+ERR7015378,PRJEB47975,Hospital_sewage,Burkina Faso,Septic_tank,Ouagadougou,Africa,Illumina_NovaSeq_6000,UH
+ERR7015380,PRJEB47975,Hospital_sewage,Burkina Faso,Septic_tank,Ouagadougou,Africa,Illumina_NovaSeq_6000,UH
+ERR7015381,PRJEB47975,Hospital_sewage,Burkina Faso,Septic_tank,Ouagadougou,Africa,Illumina_NovaSeq_6000,UH
+ERR7015382,PRJEB47975,Hospital_sewage,Burkina Faso,Septic_tank,Ouagadougou,Africa,Illumina_NovaSeq_6000,UH
+ERR7015383,PRJEB47975,Hospital_sewage,Burkina Faso,Septic_tank,Ouagadougou,Africa,Illumina_NovaSeq_6000,UH
+ERR7015384,PRJEB47975,Hospital_sewage,Burkina Faso,Septic_tank,Ouagadougou,Africa,Illumina_NovaSeq_6000,UH
+ERR7015385,PRJEB47975,Hospital_sewage,Burkina Faso,Septic_tank,Ouagadougou,Africa,Illumina_NovaSeq_6000,UH
+ERR7015386,PRJEB47975,Hospital_sewage,Burkina Faso,Septic_tank,Ouagadougou,Africa,Illumina_NovaSeq_6000,UH
+ERR7015387,PRJEB47975,Hospital_sewage,Burkina Faso,Septic_tank,Ouagadougou,Africa,Illumina_NovaSeq_6000,UH
+ERR7015388,PRJEB47975,Hospital_sewage,Burkina Faso,Septic_tank,Ouagadougou,Africa,Illumina_NovaSeq_6000,UH
+ERR7015389,PRJEB47975,Hospital_sewage,Burkina Faso,Septic_tank,Ouagadougou,Africa,Illumina_NovaSeq_6000,UH
+ERR7015390,PRJEB47975,Hospital_sewage,Burkina Faso,Septic_tank,Ouagadougou,Africa,Illumina_NovaSeq_6000,UH
+ERR7015391,PRJEB47975,Hospital_sewage,Burkina Faso,Septic_tank,Ouagadougou,Africa,Illumina_NovaSeq_6000,UH
+ERR7015392,PRJEB47975,Hospital_sewage,Burkina Faso,Septic_tank,Ouagadougou,Africa,Illumina_NovaSeq_6000,UH
+ERR7015393,PRJEB47975,Hospital_sewage,Burkina Faso,Septic_tank,Ouagadougou,Africa,Illumina_NovaSeq_6000,UH
+ERR7015394,PRJEB47975,Hospital_sewage,Burkina Faso,Septic_tank,Ouagadougou,Africa,Illumina_NovaSeq_6000,UH
+ERR7015395,PRJEB47975,Hospital_sewage,Finland,Wastewater_plumbing,Helsinki,Europe,Illumina_NovaSeq_6000,UH
+ERR7015397,PRJEB47975,Hospital_sewage,Finland,Wastewater_plumbing,Helsinki,Europe,Illumina_NovaSeq_6000,UH
+ERR7015398,PRJEB47975,Hospital_sewage,Finland,Wastewater_plumbing,Helsinki,Europe,Illumina_NovaSeq_6000,UH
+ERR7015399,PRJEB47975,Hospital_sewage,Finland,Wastewater_plumbing,Helsinki,Europe,Illumina_NovaSeq_6000,UH
+ERR7015400,PRJEB47975,Hospital_sewage,Finland,Wastewater_plumbing,Helsinki,Europe,Illumina_NovaSeq_6000,UH
+ERR7015401,PRJEB47975,Hospital_sewage,Finland,Wastewater_plumbing,Helsinki,Europe,Illumina_NovaSeq_6000,UH
+ERR7015402,PRJEB47975,Hospital_sewage,Finland,Wastewater_plumbing,Helsinki,Europe,Illumina_NovaSeq_6000,UH
+ERR7015403,PRJEB47975,Hospital_sewage,Finland,Wastewater_plumbing,Helsinki,Europe,Illumina_NovaSeq_6000,UH
