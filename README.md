@@ -89,7 +89,7 @@ Explainable AI pipeline for microbial classification:
 
 ---
 
-## ⚙️ Requirements
+## Requirements
 
 - Python ≥ 3.8
 - R ≥ 4.3.0
@@ -144,5 +144,10 @@ MIT License — free to use, adapt, and cite with attribution.
 Aminu, S., Ascandari, A., Mokhtar, M.M., El Allali, A., Benhida, R., Daoud, R. (2025).  
 *Genome-Resolved Species-Level Surveillance and Predictive Risk Modeling of Urban Microbiomes*.  
 **Microbiome** (Submitted).
+
+Aminu, S., Ascandari, A., Benhida, R., Daoud, R. (2025).  
+*GRUMB: A Genome-Resolved Metagenomic Framework forMonitoring Urban Microbiome and Diagnosing Pathogen
+Risk*.  
+**Bioinformatics** (Submitted).
  
 
