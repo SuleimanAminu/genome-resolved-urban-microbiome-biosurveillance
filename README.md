@@ -141,7 +141,6 @@ MIT License — free to use, adapt, and cite with attribution.
 ---
 
 ## Citation
-## 📖 Citation
 
 If you use this Framework, please cite:
 **Aminu S.**, Ascandari A., Benhida R., Daoud R. (2025).  
@@ -152,7 +151,8 @@ Zenodo. [https://doi.org/10.5281/zenodo.15505402](https://doi.org/10.5281/zenodo
 
 
 
-**Submitted Articles Related to the Framework**
+## Submitted Articles Related to the Framework
+
 Aminu, S., Ascandari, A., Mokhtar, M.M., El Allali, A., Benhida, R., Daoud, R. (2025).  
 *Genome-Resolved Species-Level Surveillance and Predictive Risk Modeling of Urban Microbiomes*.  
 Microbiome** (Submitted).
