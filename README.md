@@ -138,6 +138,15 @@ Urban_Microbiome_Surveillance/
 
 MIT License — free to use, adapt, and cite with attribution.
 
+ This Framework, otherwise referred to **GRUMB** is currently part of a manuscript under peer review.
+
+This repository is shared under the MIT License to promote transparency and reproducibility.  
+A Zenodo DOI has been assigned to ensure formal authorship record.
+
+-Please cite GRUMB using the DOI: https://doi.org/10.5281/zenodo.15505402  
+-We kindly request that you do not republish or repackage this methodology before journal publication.
+
+
 ---
 
 ## Citation
