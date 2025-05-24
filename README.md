@@ -158,7 +158,7 @@ Aminu, S., Ascandari, A., Mokhtar, M.M., El Allali, A., Benhida, R., Daoud, R. (
 Microbiome** (Submitted).
 
 Aminu, S., Ascandari, A., Benhida, R., Daoud, R. (2025).  
-*GRUMB: A Genome-Resolved Metagenomic Framework forMonitoring Urban Microbiome and Diagnosing Pathogen
+*GRUMB: A Genome-Resolved Metagenomic Framework for Monitoring Urban Microbiome and Diagnosing Pathogen
 Risk*.  
 **Bioinformatics** (Submitted).
  
