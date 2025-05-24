@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use GRUMB or this pipeline, please cite this software using the metadata below."
+title: "GRUMB: Genome-Resolved Urban Microbiome Biosurveillance"
+version: "1.0.1"
+doi: "https://doi.org/10.5281/zenodo.15505402"
+date-released: 2025-05-24
+repository-code: https://github.com/SuleimanAminu/genome-resolved-urban-microbiome-biosurveillance
+authors:
+  - family-names: Aminu
+    given-names: Suleiman
+    affiliation: "University Mohammed VI Polytechnic"
+    orcid: https://orcid.org/0000-0002-6520-8596  
+  - family-names: Ascandari
+    given-names: AbdulAziz
+    affiliation: "University Mohammed VI Polytechnic"
+    orcid: https://orcid.org/0009-0005-4320-5609
+  - family-names: Benhida
+    given-names: Rachid
+    affiliation: "University Mohammed VI Polytechnic"
+  - family-names: Daoud
+    given-names: Rachid
+    affiliation: "University Mohammed VI Polytechnic"
+    orcid: https://orcid.org/0000-0003-0212-988X
+keywords:
+  - metagenomics
+  - AMR surveillance
+  - microbiome
+  - genome-resolved analysis
+  - microbial risk modeling
+license: MIT
