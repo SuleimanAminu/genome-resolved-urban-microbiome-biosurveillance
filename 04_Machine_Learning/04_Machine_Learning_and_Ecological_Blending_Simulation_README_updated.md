@@ -1,8 +1,4 @@
----
-output:
-  html_document: default
-  pdf_document: default
----
+
 
 # *04_Machine_Learning_and_Ecological_Blending_Simulation Module*
 
